@@ -1,3 +1,4 @@
+#PROGRAM TO FIND SIMPLE INTEREST USING P,T,R formula
 p=int(input("ENTER THE PRINCIPAL AMOUNT:"))
 t=float(input("ENTER THE TIME PERIOD:"))
 r=float(input("ENTER THE  RATE OF INTEREST:"))
