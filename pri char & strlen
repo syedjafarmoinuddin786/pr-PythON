@@ -1,0 +1,17 @@
+#TO PRINT EACH OF CHARACTER A STRING AND STRING LENGTH using (while loop)
+str=input()
+i=0
+
+while i<len(str):
+  print(str[i])
+  i=i+1
+print(len(str))  
+# USING for loop
+#TO PRINT EACH OF CHARACTER A STRING AND STRING LENGTH (for loop)
+str=input()
+for i in str:
+  print(i) 
+print(len(str))
+
+
+
