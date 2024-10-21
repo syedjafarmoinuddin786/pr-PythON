@@ -7,5 +7,5 @@ def area_and_perimeter_rect(l,b):
 	area = l*b
 	perimeter = 2*(l+b)
 	return area,perimeter 
-print("AREA OF THE RECATNGLE",area_and_perimeter_rect(l,b))
+print("AREA and PERIMETER OF THE RECATNGLE",area_and_perimeter_rect(l,b))
  
